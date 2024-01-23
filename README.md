@@ -1,5 +1,5 @@
 Relatório de Progresso Diário
-Este script Python utiliza as bibliotecas pandas, numpy, matplotlib e seaborn para gerar visualizações e análises exploratórias a partir de dados fictícios relacionados ao progresso diário dos funcionários.
+Este script Python utiliza as bibliotecas pandas, matplotlib e seaborn para gerar visualizações e análises exploratórias a partir de dados fictícios relacionados ao progresso diário dos funcionários.
 
 Conteúdo do Script:
 Importação de Bibliotecas: As bibliotecas pandas, matplotlib e seaborn são importadas para manipulação de dados e visualizações.
